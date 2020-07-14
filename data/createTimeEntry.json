@@ -1,0 +1,12 @@
+{
+  "time_entry": {
+    "is_logged": true,
+    "duration": 7200,
+    "note": "This is my reading time",
+    "internal": true,
+    "started_at": "2020-07-13T18:30:00.000Z",
+    "billable": null,
+    "client_id": null,
+    "project_id": null
+  }
+}
